@@ -1,2 +1,2 @@
 # weather-api-project-code
-the code for the rapid api project
+the project consist of two scripts a database and 2 json files, 
